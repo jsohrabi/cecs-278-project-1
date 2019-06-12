@@ -1,0 +1,9 @@
+Health Potion,25
+Bag o' Gold,20
+Shield,15
+Helm,10
+Belt,2
+Ring,5
+Gloves,5
+Boots,10
+Ringmail,15

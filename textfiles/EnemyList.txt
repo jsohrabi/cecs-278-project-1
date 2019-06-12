@@ -1,0 +1,8 @@
+Goblin,Ack Ack,2,m
+Orc,Blarghh,4,p
+Giant Rat,Squeek,1,p
+Kobold,Barraarrk,4,m
+Gnoll,ArrArrArrf,3,p
+Snake,Hissss..,1,p
+Froglok,Croooak,2,m
+Troll,Ugh uh,5,p
